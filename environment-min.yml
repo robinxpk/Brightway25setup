@@ -1,0 +1,13 @@
+name: masterarbeit
+channels:
+  - defaults
+dependencies:
+  - pandas
+  - matplotlib
+  - brightway25
+  - ipykernel
+  - jupyterlab
+  - fs
+  - python=3.11
+  - ecoinvent_interface=3.1
+prefix: C:\Users\robin\miniconda3\envs\masterarbeit
